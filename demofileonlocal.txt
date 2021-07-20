@@ -3,6 +3,9 @@ This file is from local repo to upload on repository
 
 stash lin 3
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 stash line 4
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
